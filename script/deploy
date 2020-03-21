@@ -1,4 +1,5 @@
 #!/bin/sh
+
 ssh dansso@64.227.41.182 <<EOF
  cd ~/node-app
  git pull
