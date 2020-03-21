@@ -5,7 +5,7 @@
   "description": "hello jenkins test app",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --exit"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
