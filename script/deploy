@@ -1,6 +1,6 @@
 #!/bin/sh
 
-ssh dansso@64.227.41.182 <<EOF
+ssh dansso@6206.189.21.240 <<EOF
  cd ~/node-app
  git pull
  npm install --production
