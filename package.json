@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Sanssy/node-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "devDependencies": {
     "mocha": "^7.1.0",
